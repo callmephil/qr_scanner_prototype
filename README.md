@@ -2,7 +2,7 @@
 
 A prototype Flutter application that scans multiple QR codes and sends data to a backend server using isolates and HTTP requests.
 
-![](demo/demo.mp4)
+![](https://github.com/callmephil/qr_scanner_prototype/blob/master/demo/demo.webp)
 
 ## Getting Started
 
